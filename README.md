@@ -5,6 +5,16 @@ An end-to-end **Machine Learning–based financial application** that predicts w
 The system is designed to assist banks and financial institutions in **automating loan decision-making** with speed, consistency, and data-driven insights.
 
 ---
+## 🔗 Live Application
+http://13.211.255.155
+
+---
+## 🚀 Deployment
+- Platform: AWS EC2
+- Web Framework: Streamlit
+- Model Serialization: Joblib
+- Live URL: http://13.xxx.xxx.xxx
+---
 
 ## 🚀 Project Overview
 
