@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-streamlit
+streamlit == 1.53.1
 pandas
 numpy
 scikit-learn
 joblib
 xgboost
-=======
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
-xgboost
->>>>>>> 8aafb821bce6485553949e3f3311f2db5e102471
 pillow
