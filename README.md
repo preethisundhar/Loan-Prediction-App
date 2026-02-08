@@ -6,7 +6,7 @@ The system is designed to assist banks and financial institutions in **automatin
 
 ---
 ## 🔗 Live Application
-http://13.211.255.155
+http://13.211.255.155:8501
 
 ---
 ## 🚀 Deployment
