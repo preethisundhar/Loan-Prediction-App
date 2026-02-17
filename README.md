@@ -6,14 +6,14 @@ The system is designed to assist banks and financial institutions in **automatin
 
 ---
 ## 🔗 Live Application
-http://15.134.87.151:8501
+
 
 ---
 ## 🚀 Deployment
 - Platform: AWS EC2
 - Web Framework: Streamlit
 - Model Serialization: Joblib
-- Live URL: http://13.xxx.xxx.xxx
+- Live URL: 
 ---
 
 ## 🚀 Project Overview
